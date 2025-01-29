@@ -26,7 +26,7 @@ A modern C++ library for interacting with Subaru's STARLINK vehicle services. Th
 
 1. Clone the repository with submodules:
 ```bash
-git clone --recursive https://github.com/yourusername/subarulinkcpp.git
+git clone --recursive https://github.com/awiswasi/subarulinkcpp.git
 cd subarulinkcpp
 ```
 
@@ -149,7 +149,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add your chosen license here]
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 
